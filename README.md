@@ -1,6 +1,26 @@
 # Welcome to my profile
 #### I am nikleof - php,js full-stack developer
 
+```php 
+<?php
+echo "welcome to my profile";
+```
+
+```cpp
+#include <iostream>
+
+int main(){
+  std::cout << "DuLeCord developer" << std::endl;
+  return 0;
+}
+```
+
+```css
+  *:hover{
+    display: none; /* 😎😎🤣🤣 */
+  }
+```
+
 <!---
 Nikleof79/Nikleof79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
