@@ -1,11 +1,13 @@
 # Welcome to my profile
 #### I am nikleof - php,js full-stack developer
 
+### I am intrestiong into .php
 ```php 
 <?php
 echo "welcome to my profile";
 ```
 
+### but love c++
 ```cpp
 #include <iostream>
 
@@ -15,12 +17,14 @@ int main(){
 }
 ```
 
+### writing on css cool😎 buttons
 ```css
   *:hover{
     display: none; /* 😎😎🤣🤣 */
   }
 ```
 
+### and i can write on express 
 ```js 
 app.get('/brain',function(req,res){
   res.status(404);
