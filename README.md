@@ -31,6 +31,13 @@ app.get('/brain',function(req,res){
 });
 ```
 
+### and yeah my bulbaPHP
+```php 
+$app->post('/goodFW',function($req,$res){
+  $res.send('bulbaPHP');
+})
+
+```
 <!---
 Nikleof79/Nikleof79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
