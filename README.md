@@ -1,5 +1,6 @@
 # Welcome to my profile
-#### I am nikleof - php,js full-stack developer
+#### I am nikleof - php,js full-stack developer . Creator of bulbaPHP .
+#### I created and clang and gcc bat all rights are not mine
 
 ### I am intrestiong into .php
 ```php 
@@ -31,13 +32,6 @@ app.get('/brain',function(req,res){
 });
 ```
 
-### and yeah my bulbaPHP
-```php 
-$app->post('/goodFW',function($req,$res){
-  $res.send('bulbaPHP');
-})
-
-```
 <!---
 Nikleof79/Nikleof79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
