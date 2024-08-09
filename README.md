@@ -1,6 +1,6 @@
 # Welcome to my profile
 #### I am nikleof - php,js full-stack developer . Creator of bulbaPHP .
-#### I created and clang and gcc bat all rights are not mine
+#### I created and clang and gcc but all rights are not mine
 
 ### I am intrestiong into .php
 ```php 
