@@ -34,7 +34,7 @@ app.get('/brain',function(req,res){
 });
 ```
 
-### Do not forget check out my bro 
+### Do not forget check my bro 
 <a href="https://github.com/TimofeyDub">@TimofeyDub </a>
 
 <!---
