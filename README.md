@@ -1,7 +1,6 @@
 # Welcome to my profile
 
 #### I am nikleof - php,js full-stack developer .
-### Creator of bulbaPHP .
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikleof79&hide_progress=false)
 
