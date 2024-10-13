@@ -3,7 +3,7 @@
 #### I am nikleof - php,js full-stack developer .
 ### Creator of bulbaPHP .
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikleof79&hide_progress=true)
 
 ### Do not forget check my bro 
 <a href="https://github.com/TimofeyDub">@TimofeyDub </a>
