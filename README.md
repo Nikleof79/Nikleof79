@@ -1,38 +1,9 @@
 # Welcome to my profile
 
-#### I am nikleof - php,js full-stack developer . Creator of bulbaPHP .
+#### I am nikleof - php,js full-stack developer .
+### Creator of bulbaPHP .
 
-
-
-### I am intrestiong into .php
-```php 
-<?php
-echo "welcome to my profile";
-```
-
-### but love c++
-```cpp
-#include <iostream>
-
-int main(){
-  std::cout << "DuLeCord developer" << std::endl;
-  return 0;
-}
-```
-
-### writing on css cool😎 buttons
-```css
-  *:hover{
-    display: none; /* 😎😎🤣🤣 */
-  }
-```
-
-### and i can write on express 
-```js 
-app.get('/brain',function(req,res){
-  res.status(404);
-});
-```
+!(Top langs)[https://github-readme-stats.vercel.app/api/top-langs/?username=nikleof79&hide_progress=true]
 
 ### Do not forget check my bro 
 <a href="https://github.com/TimofeyDub">@TimofeyDub </a>
