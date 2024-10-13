@@ -1,9 +1,9 @@
 # Welcome to my profile
 
-    👋 Hi, I’m @Nikleof79
-    👀 I’m interested in back-end , front-end
-    🌱 I’m currently learning React.js
-    📫 How to reach me Discord: @bulbazavrrr10007
+👋 Hi, I’m @Nikleof79
+👀 I’m interested in back-end , front-end
+🌱 I’m currently learning React.js
+📫 How to reach me Discord: @bulbazavrrr10007
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikleof79&hide_progress=false)
