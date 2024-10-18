@@ -10,7 +10,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikleof79&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikleof79&layout=donut-vertical&theme=transparent)
 
 
 ### Do not forget check my bro 
