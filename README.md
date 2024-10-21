@@ -11,10 +11,7 @@
 <!---
 ┌── ──┐
 └── ──┘ 
---->
-
-<img src='./channels4_profile — копия.jpg' style='width: 100px;' />
-
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikleof79&langs_count=5&hide_progress=false&layout=donut&theme=default)
 
 ### Do not forget check my bro 
