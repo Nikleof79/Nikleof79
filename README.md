@@ -1,6 +1,6 @@
 # Welcome to my profile
 
-<img src="./channels4_profile — копия.jpgs" width="100px" />
+<img src="https://raw.githubusercontent.com/Nikleof79/Nikleof79/refs/heads/main/channels4_profile%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg" width="100px" />
 
 👋 Hi, I’m @Nikleof79
 
