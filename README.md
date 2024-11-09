@@ -14,7 +14,7 @@
 ┌── ──┐
 └── ──┘ 
 -->[
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikleof79&langs_count=5&hide_progress=false&layout=donut&theme=default)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikleof79&langs_count=5&hide_progress=false&layout=donut&theme=default)
 
 ### Do not forget check my bro 
 <a href="https://github.com/TimofeyDub">@TimofeyDub </a>
