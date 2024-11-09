@@ -15,7 +15,7 @@
 └── ──┘ 
 -->
 
-!(Top Langs)[https://github-readme-stats.vercel.app/api/top-langs/?username=nikleof79&layout=compact]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikleof79&layout=compact" width="100px" />
 
 ### Do not forget check my bro 
 <a href="https://github.com/TimofeyDub">@TimofeyDub </a>
