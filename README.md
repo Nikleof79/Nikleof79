@@ -1,12 +1,12 @@
 # Welcome to my profile
 
-<img src-"" >
+<img src="./channels4_profile — копия.jpgs" width="100px" />
 
 👋 Hi, I’m @Nikleof79
 
 👀 I’m interested in back-end , front-end
 
-🌱 I’m currently learning React.js
+🌱 I’m currently learning BulbaPHP
 
 📫 How to reach me Discord: @bulbazavrrr10007
 
