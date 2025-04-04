@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Nikleof79/Nikleof79/refs/heads/main/channels4_profile%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg" width="100px" />
 
 # 💫 About Me:
-👋 Hi, I’m @Nikleof79<br><br>👀 I’m interested in back-end , front-end<br><br>🌱 I’m currently learning BulbaPHP<br><br>📫 How to reach me Discord: @bulbazavrrr10007
+👋 Hi, I’m @Nikleof79<br><br>👀 I’m interested in back-end , front-end<br><br>🌱 I’m currently learning BulbaPHP<br><br>📫 How to reach me Discord: @bulbazavrrr10007<br><br>🐧 Linux: Debian 12
 
 
 # 💻 Tech Stack:
